@@ -1,0 +1,4 @@
+#!/bin/bash
+  
+javac PercolationVisualizer.java
+java PercolationVisualizer input.txt
